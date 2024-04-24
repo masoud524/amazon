@@ -1,0 +1,1667 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        نرخ‌ سود</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <LINK href="/Skins/Skin-1395/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/bootstrap-theme.min.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/icon.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/animate.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/jquery.bxslider.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/css/main.css" type="text/css" rel="stylesheet">
+<LINK href="/Skins/Skin-1395/fa/fa.css" type="text/css" rel="stylesheet">
+    <link href="/Skins/Skin-1395/css/bootstrap-rtl.min.css" rel="stylesheet">
+    <link href="/Skins/Skin-1395/css/bootstrap-custom.css" rel="stylesheet">
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Language" content="fa">
+    <meta name="referrer" content="origin" />
+    <meta http-equiv="Content-Security-Policy" content="object-src 'none';script-src 'self' 'unsafe-inline' 'unsafe-eval';" />    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="fontiran.com:license" content="DZP72">
+    
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    <script type="text/javascript" src="/Skins/Skin-1395/fa/print.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery-ui-1.13.0.custom.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/Popper.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/bootstrap.rtl.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/CBI.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/CBI-NewsSlider.js"></script>
+<script type="text/javascript" src="/Skins/Skin-1395/js/jquery.jsticky.min.js"></script>
+    
+
+    <!--
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-120472-1";
+		urchinTracker();
+		</script>
+-->
+</head>
+<body>
+    
+    <form name="aspnetForm" method="post" action="./policyrates_fa.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4DAA8359" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+        
+
+
+<script type="text/javascript" src="/Skins/Skin-1395/js/FormsScripts/Header.js"></script>
+
+<!-- START OF MAIN HEADER -->
+<div id="top" class="top-bar-cbi-ir">
+    <div class="container">
+        <div class="col-lg-6 col-md-6 col-xs-12"></div>
+        <div class="col-lg-6 col-md-6 col-xs-12">
+            <div class="col-lg-6 col-md-6 col-xs-6">
+                <div class="input-group">
+                    <span class="input-group-btn">
+                        <input name="ctl00$ucHeader$txtQuickSearch" type="text" maxlength="100" id="ctl00_ucHeader_txtQuickSearch" class="form-control search-input-cbi-ir txtHomeQuickSearch" placeholder="جست و جو برای ..." />
+                        <button onclick="__doPostBack('ctl00$ucHeader$btnQuickSearch','')" id="ctl00_ucHeader_btnQuickSearch" type="button" class="btn btn-default search-btn-cbi-ir"><i class="icon-search"></i></button>
+                    </span>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-4 text-center">
+                <a id="ctl00_ucHeader_lnkAdvancedSearch" class="btn advance-search-cbi-ir" href="javascript:__doPostBack(&#39;ctl00$ucHeader$lnkAdvancedSearch&#39;,&#39;&#39;)">جست و جوی پيشرفته</a>
+            </div>
+            <div class="col-lg-2 col-md-2 col-xs-2">
+                <a href="/default_en.aspx" class="btn chanage-lng-cbi-ir">English</a>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="top-header-cbi-ir header-bg-cbi-ir">
+    <div class="container header-content-cbi-ir">
+        <a href="/">
+            <svg width="194" height="110">
+                <image xlink:href="/images/cbi-logo.svg" class="cbi-logo" src="/images/cbi-logo.png" width="194" height="110" />
+            </svg>
+        </a>
+        
+        <img src="/images/iran-flag.jpg" class="iran-flag-cbi-ir pull-left" />
+        
+    </div>
+</header>
+
+
+
+
+
+
+<!-- END OF MAIN HEADER -->
+
+        
+
+<div class="main-navbar-cbi-ir">
+    <div class="container">
+
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="mob-cbi-title" href="#">بانک مرکزی جمهوری اسلامی ایران</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1375.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">درباره بانک<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1375.aspx'><h5>درباره بانک</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1375.aspx'>
+                                                <img src='/Upload/MenuImages/1375.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                بانک مرکزی جمهوری اسلامی ايران در تاريخ 18 مرداد ماه 1339 تأسيس گرديد. برخی از وظايف بانک مرکزی عبارتند از حفظ ارزش داخلی و خارجی پول ملی کشور، انتشار اسکناس و ضرب سکه‌های فلزی رايج کشور، تنظيم مقررات مربوط به معاملات ارزی و ريالی، نظارت بر صدور و ورود ارز و پول رايج کشور، تنظيم کننده نظام پولی و اعتباری کشور، نظارت بر بانک‌ها و مؤسسات اعتباری ...&nbsp;<a href='/section/1375.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/4238.aspx'><i class="icon-left-open-big"></i>وظایف و اختیارات</a></li>
+                                                    
+                                                        <li><a href='/page/2319.aspx'><i class="icon-left-open-big"></i>اعضای هيأت عامل و معاونين بانک</a></li>
+                                                    
+                                                        <li><a href='/organization/16133.aspx'><i class="icon-left-open-big"></i>اركان بانك</a></li>
+                                                    
+                                                        <li><a href='/page/22695.aspx'><i class="icon-left-open-big"></i>شورای فقهی بانک مرکزی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/7673.aspx'><i class="icon-left-open-big"></i>نمودار سازمانی</a></li>
+                                                    
+                                                        <li><a href='/page/1397.aspx'><i class="icon-left-open-big"></i>خزانه جواهرات ملی</a></li>
+                                                    
+                                                        <li><a href='/page/Contact_fa.aspx'><i class="icon-left-open-big"></i>تماس با ما</a></li>
+                                                    
+                                                        <li><a href='/simplelist/14820.aspx'><i class="icon-left-open-big"></i>نشان بانک مرکزی</a></li>
+                                                    
+                                                        <li><a href='/page/1580.aspx'><i class="icon-left-open-big"></i>رؤسای كل پیشین بانك مرکزی</a></li>
+                                                    
+                                                        <li><a href='/page/21887.aspx'><i class="icon-left-open-big"></i>میز خدمت بانک مرکزی</a></li>
+                                                    
+                                                        <li><a href='/page/21903.aspx'><i class="icon-left-open-big"></i>سند راهبردی دولت الكترونيك بانك مركزی</a></li>
+                                                    
+                                                        <li><a href='/category/News.aspx'><i class="icon-left-open-big"></i>اخبار بانک</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/organization/16133.aspx'>
+                                                <img src='/Upload/MenuImages/16133.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/organization/16133.aspx'>
+                                                <h5>اركان بانك</h5>
+                                            </a>
+                                            <p>
+                                                براساس فصل سوم قانون پولی و بانکی کشور مصوب سال 1351 و آخرین اصلاحات آن، ارکان بانک مرکزی جمهوری اسلامی ایران به شرح زیر است:<br>1 - مجمع عمومی.<br>
+2 - شورای پول و اعتبار.<br>
+3 - هیئت عامل.<br>
+4 - هیئت نظارت اندوخته اسکناس.<br>
+5 - هیئت نظار.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/1397.aspx'>
+                                                <img src='/Upload/MenuImages/1397.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/1397.aspx'>
+                                                <h5>خزانه جواهرات ملی</h5>
+                                            </a>
+                                            <p>
+                                                گنجينه بی‌مانند «خزانه جواهرات ملی» مجموعه‌ای از گرانبهاترين جواهرات جهان است که طی قرون و اعصار بدين صورت فراهم آمده است. اهميت جواهرات موجود در «خزانه جواهرات ملی» به ارزش اقتصادی آن محدود نمی‌گردد، بلکه نمايانگر ذوق و سليقه صنعتگران و هنرمندان ايران زمين در دوره‌های مختلف تاريخ و به عنوان ميراث تاريخی، هنری، نماينده هنرهای مستظرفه کشور پهناور ما است.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1376.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">سياست پولی<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1376.aspx'><h5>سياست پولی</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1376.aspx'>
+                                                <img src='/Upload/MenuImages/1376.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                سياست پولی به مجموعه‌ای از سياست‌هايی اطلاق می‌شود كه جهت  تحقق  اهداف اقتصادی كلان يا كاهش خسارات ناشی از عملكرد نظام پولی جهت كنترل حجم نقدينگی در اقتصاد به كار گرفته می‌شود....&nbsp;<a href='/section/1376.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/1512.aspx'><i class="icon-left-open-big"></i>ابزارهای سياست پولی در ايران</a></li>
+                                                    
+                                                        <li><a href='/simplelist/2721.aspx'><i class="icon-left-open-big"></i>سيستم بانكی و برنامه‌های پنج‌ساله توسعه اقتصادی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/2722.aspx'><i class="icon-left-open-big"></i>سياستهای پولی جاری (سالانه)</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1515.aspx'><i class="icon-left-open-big"></i>نرخهاي سود بانکی</a></li>
+                                                    
+                                                        <li><a href='/page/1648.aspx'><i class="icon-left-open-big"></i>سهميه‌‌بندی بخشی تسهيلات </a></li>
+                                                    
+                                                        <li><a href='/category/20982.aspx'><i class="icon-left-open-big"></i>عملیات بازار باز</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/1512.aspx'>
+                                                <img src='/Upload/MenuImages/1512.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/1512.aspx'>
+                                                <h5>ابزارهای سياست پولی در ايران</h5>
+                                            </a>
+                                            <p>
+                                                ابزارهای سياست پولی در ايران عبارتند از ابزارهای مستقيم شامل کنترل نرخ‌های سود بانکی و سقف اعتباری و ابزارهای غيرمستقيم که شامل نسبت سپرده قانونی، اوراق مشاركت بانك مركزی و سپرده ويژه بانكها نزد بانك مركزی است.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/2722.aspx'>
+                                                <img src='/Upload/MenuImages/2722.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/2722.aspx'>
+                                                <h5>سياستهای پولی جاری (سالانه)</h5>
+                                            </a>
+                                            <p>
+                                                شامل سياستهای پولی جاری (سالانه) مصوب شورای پول و اعتبار و بايگانی آن به تفکيک سال.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/page/1379.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">نشریات و پژوهش‌ها<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/page/1379.aspx'><h5>نشریات و پژوهش‌ها</h5></a></div>
+                                            <a style="padding: 0;" href='/page/1379.aspx'>
+                                                <img src='/Upload/MenuImages/1379.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                در اين بخش شما می‌توانيد تمامی مطالب منتشره بانک مرکزی را بيابيد. اين مطالب شامل انواع نشريات ادواری و موردی، پژوهش‌ها،... است. برخی از نشريات بانک عبارتند از نماگرهای اقتصادی، خلاصه تحولات اقتصادی کشور، گزارش اقتصادی و ترازنامه، و مجله روند....&nbsp;<a href='/page/1379.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/category/EconomicTrends_fa.aspx'><i class="icon-left-open-big"></i>نماگرهای اقتصادی</a></li>
+                                                    
+                                                        <li><a href='/datedlist/AnnualReview_fa.aspx'><i class="icon-left-open-big"></i>خلاصه تحولات اقتصادی کشور</a></li>
+                                                    
+                                                        <li><a href='/category/EconomicReport_fa.aspx'><i class="icon-left-open-big"></i>گزارش اقتصادی و ترازنامه</a></li>
+                                                    
+                                                        <li><a href='/datedlist/Ravand_fa.aspx'><i class="icon-left-open-big"></i>فصلنامه روند</a></li>
+                                                    
+                                                        <li><a href='/category/4326.aspx'><i class="icon-left-open-big"></i>بررسي وضع اقتصادي - ارزي کشورهاي عمده، بازارهاي طلا و نفت</a></li>
+                                                    
+                                                        <li><a href='/category/DailyEcoNews_fa.aspx'><i class="icon-left-open-big"></i>اخبار اقتصادی روز</a></li>
+                                                    
+                                                        <li><a href='/datedlist/4274.aspx'><i class="icon-left-open-big"></i>مقالات و پژوهش‌ها</a></li>
+                                                    
+                                                        <li><a href='/datedlist/16134.aspx'><i class="icon-left-open-big"></i>کتاب​ها</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/category/EconomicReport_fa.aspx'>
+                                                <img src='/Upload/MenuImages/1566.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/category/EconomicReport_fa.aspx'>
+                                                <h5>گزارش اقتصادی و ترازنامه</h5>
+                                            </a>
+                                            <p>
+                                                گزارش اقتصادي و ترازنامه بانك مركزي جمهوري اسلامي ايران که در مجمع
+عمومي بانک مرکزی تصويب می‌شود و تهيه و تنظيم اين گزارش در اداره بررسيهاي اقتصادي صورت می گيرد.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/datedlist/Ravand_fa.aspx'>
+                                                <img src='/Upload/MenuImages/2093.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/datedlist/Ravand_fa.aspx'>
+                                                <h5>فصلنامه روند</h5>
+                                            </a>
+                                            <p>
+                                                نشريه علمی- تخصصی بانك مركزی جمهوری اسلامی ايران
+
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1453.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">قوانين و مقررات<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1453.aspx'><h5>قوانين و مقررات</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1453.aspx'>
+                                                <img src='/Upload/MenuImages/1453.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                براساس قانون پولی و بانکی کشور، بانک مرکزی جمهوری اسلامی ايران بعنوان تنظيم کننده نظام پولی و اعتباری کشور، موظف به تنظيم مقررات مربوطه است...&nbsp;<a href='/section/1453.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/datedlist/1531.aspx'><i class="icon-left-open-big"></i>قوانين مرجع </a></li>
+                                                    
+                                                        <li><a href='/simplelist/4425.aspx'><i class="icon-left-open-big"></i>مصوبات شورای پول و اعتبار</a></li>
+                                                    
+                                                        <li><a href='/datedlist/4424.aspx'><i class="icon-left-open-big"></i>مصوبات هيأت وزيران</a></li>
+                                                    
+                                                        <li><a href='/datedlist/3354.aspx'><i class="icon-left-open-big"></i>مقررات ارزی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/1533.aspx'><i class="icon-left-open-big"></i>بخشنامه‌ها</a></li>
+                                                    
+                                                        <li><a href='/simplelist/21898.aspx'><i class="icon-left-open-big"></i>مقررات تبليغات در حوزه پولی و بانکی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/21060.aspx'><i class="icon-left-open-big"></i>شورای فقهی</a></li>
+                                                    
+                                                        <li><a href='/page/23049.aspx'><i class="icon-left-open-big"></i>تأمین مالی زنجیره تولید</a></li>
+                                                    
+                                                        <li><a href='/simplelist/25345.aspx'><i class="icon-left-open-big"></i>هیئت خبرگان بانکی و اقتصادی</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/datedlist/1531.aspx'>
+                                                <img src='/Upload/MenuImages/1531.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/datedlist/1531.aspx'>
+                                                <h5>قوانين مرجع </h5>
+                                            </a>
+                                            <p>
+                                                شامل کليه قوانين پولی و بانکی مانند قانون پولی و بانکی کشور، قانون عمليات بانکی بدون ربا (بهره) ، لایحه قانونی اداره اموربانک ها ، قانون اجازه تاسیس بانک های غیردولتی ، قانون تنظیم بازارغیرمتشکل پولی
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/4425.aspx'>
+                                                <img src='/Upload/MenuImages/4425.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/4425.aspx'>
+                                                <h5>مصوبات شورای پول و اعتبار</h5>
+                                            </a>
+                                            <p>
+                                                شورای پول و اعتبار به عنوان مهمترين رکن بانک مرکزی، دارای وظايف متعددی است از جمله رسيدگی و تصويب مقررات مورد نياز برای اجرای قانون پولی و بانکی کشور
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1378.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">آمار و داده‌ها<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1378.aspx'><h5>آمار و داده‌ها</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1378.aspx'>
+                                                <img src='/Upload/MenuImages/1378.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                بانک مرکزی جمهوری اسلامی ايران جهت نيل به اهداف خود که همانا کنترل تورم و توسعه اقتصادی است، اقدام به گردآوری و تهيه طيف وسيعی از آمارهای اقتصادی می‌کند که اين آمارها بطور عمده شامل انواع شاخص‌های قيمت، گزارش بررسی بودجه خانوار، آمارهای صنعتی، آمار فعاليت‌های ساختمانی و آمار فعاليت‌های خدماتی است....&nbsp;<a href='/section/1378.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/simplelist/1589.aspx'><i class="icon-left-open-big"></i>آمارهای اقتصادی</a></li>
+                                                    
+                                                        <li><a href='/page/2053.aspx'><i class="icon-left-open-big"></i>حساب‌های ملی ايران</a></li>
+                                                    
+                                                        <li><a href='/exrates/rates_fa.aspx'><i class="icon-left-open-big"></i>نرخ ارز</a></li>
+                                                    
+                                                        <li><a href='/page/4275.aspx'><i class="icon-left-open-big"></i>بانک اطلاعات سری‌های زمانی اقتصادی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/LatestEconomicData_fa.aspx'><i class="icon-left-open-big"></i>گزيده آمارهای اقتصادی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/22697.aspx'><i class="icon-left-open-big"></i>آمارهای بانکی</a></li>
+                                                    
+                                                        <li><a href='/datedlist/8256.aspx'><i class="icon-left-open-big"></i>عملکرد بازار بين بانکی ريالی</a></li>
+                                                    
+                                                        <li><a href='/Inflation/Inflation_FA.aspx'><i class="icon-left-open-big"></i>نرخ تورم و شاخص بهای کالاها و خدمات مصرفی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/8398.aspx'><i class="icon-left-open-big"></i>اوراق بهادار اسلامی</a></li>
+                                                    
+                                                        <li><a href='/PolicyRates/policyrates_fa.aspx'><i class="icon-left-open-big"></i>نرخ‌ سود</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/simplelist/1589.aspx'>
+                                                <img src='/Upload/MenuImages/1589.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/simplelist/1589.aspx'>
+                                                <h5>آمارهای اقتصادی</h5>
+                                            </a>
+                                            <p>
+                                                مدیریت کل آمارهای اقتصادی مسئولیت تهیه طیف گسترده‌ای از آمارها و شاخص‌های اقتصادی را به عهده دارد. این فعالیت‌ها شامل طراحی و اجرای بررسی‌های آماری،‌روش‌های مربوط به تجدیدنظر و انتشار گزارش‌های مختلف است.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/2053.aspx'>
+                                                <img src='/Upload/MenuImages/2053.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/2053.aspx'>
+                                                <h5>حساب‌های ملی ايران</h5>
+                                            </a>
+                                            <p>
+                                                مجموعه حسابهای ملی ايران شامل آخرين نتايج حسابهای ملی سالانه، حسابهای ملی فصلی، جداول داده ستانده، حساب جريان وجوه منابع مالی، آمار موجودی سرمايه، شاخص‌های بهره‌وری، آمارهای مالی دولت‌، حساب ترازنامه ملی، ماتریس حسابداری اجتماعی و مفاهيم و تعاریف اساسی می‌باشد.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1539.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">نظارت بانکی<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1539.aspx'><h5>نظارت بانکی</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1539.aspx'>
+                                                <img src='/Upload/MenuImages/1539.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                ...&nbsp;<a href='/section/1539.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/simplelist/5253.aspx'><i class="icon-left-open-big"></i>مقررات‌ ناظر ‌بر ‌تاسيس</a></li>
+                                                    
+                                                        <li><a href='/simplelist/5254.aspx'><i class="icon-left-open-big"></i>مقررات ناظر بر فعاليت</a></li>
+                                                    
+                                                        <li><a href='/category/3719.aspx'><i class="icon-left-open-big"></i>بخشنامه‌های نظارت </a></li>
+                                                    
+                                                        <li><a href='/BanksInstitutions/BankInstitute.aspx'><i class="icon-left-open-big"></i>بانک‌ها و نهادهای پولی مجاز</a></li>
+                                                    
+                                                        <li><a href='/page/BaselCommittee_fa1.aspx'><i class="icon-left-open-big"></i>گزیده اصول کمیته بال (بازل) برای نظارت بانکی موثر</a></li>
+                                                    
+                                                        <li><a href='/simplelist/3518.aspx'><i class="icon-left-open-big"></i>گزیده پژوهش ها در زمینه بانکداری و نظارت بانکی </a></li>
+                                                    
+                                                        <li><a href='/page/8086.aspx'><i class="icon-left-open-big"></i>مبارزه با پولشويي و تامين مالي تروريسم</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/category/3719.aspx'>
+                                                <img src='/Upload/MenuImages/3719.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/category/3719.aspx'>
+                                                <h5>بخشنامه‌های نظارت </h5>
+                                            </a>
+                                            <p>
+                                                در اين قسمت شما می‌توانيد بخشنامه‌های نظارتی را به تفکيک سال صدور بخشنامه ، شماره بخشنامه ، تاريخ صدور بخشنامه و موضوع بخشنامه مشاهده نماييد.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/BanksInstitutions/BankInstitute.aspx'>
+                                                <img src='/Upload/MenuImages/16139.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/BanksInstitutions/BankInstitute.aspx'>
+                                                <h5>بانک‌ها و نهادهای پولی مجاز</h5>
+                                            </a>
+                                            <p>
+                                                فهرست بانکها و موسسات اعتباري و ساير نهادهايي که مجوز تاسيس و فعاليت آنها توسط بانک مرکزي جمهوري اسلامي ايران صادر شده و تحت نظارت قرار گرفته‌اند در اين بخش قابل مشاهده است.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1380.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">نظام‌های پرداخت و زيرساخت<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1380.aspx'><h5>نظام‌های پرداخت و زيرساخت</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1380.aspx'>
+                                                <img src='/Upload/MenuImages/1380.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                نظام پرداخت عبارت از ساز و كاری است كه می‌تواند وجه را از حسابی در يك بانك به حسابی در بانك ديگر منتقل نمايد و از اين رو نقش نظام پرداخت در اقتصاد همانند رگ‌هايی است كه پول را به بنگاه‌های مختلف اقتصادی می‌رسانند....&nbsp;<a href='/section/1380.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/15722.aspx'><i class="icon-left-open-big"></i>سامانه ​های تسويه و پرداخت</a></li>
+                                                    
+                                                        <li><a href='/page/15724.aspx'><i class="icon-left-open-big"></i>زيرساخت نظام پولی</a></li>
+                                                    
+                                                        <li><a href='/simplelist/15725.aspx'><i class="icon-left-open-big"></i>آمارهای عملکرد</a></li>
+                                                    
+                                                        <li><a href='/simplelist/15726.aspx'><i class="icon-left-open-big"></i>مقررات</a></li>
+                                                    
+                                                        <li><a href='/simplelist/19689.aspx'><i class="icon-left-open-big"></i>استعلام چک</a></li>
+                                                    
+                                                        <li><a href='/page/21993.aspx'><i class="icon-left-open-big"></i>میز امداد شتاب بانک مرکزی</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15722.aspx'>
+                                                <img src='/Upload/MenuImages/15722.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15722.aspx'>
+                                                <h5>سامانه ​های تسويه و پرداخت</h5>
+                                            </a>
+                                            <p>
+                                                سامانه های پرداخت خرد و کلان نقشی حياتی در بانکداری الکترونيک ايفا می​کنند. هرگونه پرداخت الکترونيک از بستر اين سامانه ها امکان پذير است.
+
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15724.aspx'>
+                                                <img src='/Upload/MenuImages/15724.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15724.aspx'>
+                                                <h5>زيرساخت نظام پولی</h5>
+                                            </a>
+                                            <p>
+                                                زيرساخت‌های فناوری مشتمل بر سامانه ها و شبکه های ارتباطی است که بستر امن و مطمئن پيام‌رسانی ، تبادل داده و ارتباطات بين سازمانی را فراهم می​آورند.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                                <li class="dropdown menu-large">
+                                    <a onclick="location.href='/section/1555.aspx'" href="#" class="dropdown-toggle active" data-toggle="dropdown">اسکناس و مسکوک<b class="caret"></b></a>
+                                    <ul class="dropdown-menu megamenu row">
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated slideInDown">
+
+                                            <div><a href='/section/1555.aspx'><h5>اسکناس و مسکوک</h5></a></div>
+                                            <a style="padding: 0;" href='/section/1555.aspx'>
+                                                <img src='/Upload/MenuImages/1555.jpg' class="menu-about-img img-responsive" /></a>
+
+                                            <p class="menu-about-text">
+                                                واحد پول ايران ريال است و پول رايج کشور به صورت اسکناس و سکه‌های فلزی قابل انتشار است. براساس قانون پولی و بانکی کشور، امتياز انتشار پول رايج کشور در انحصار دولت است و اين امتياز، با رعايت مقررات اين قانون، منحصراً به بانک مرکزی جمهوری اسلامی ايران واگذار شده است....&nbsp;<a href='/section/1555.aspx'>بيشتر</a>
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 animated slideInDown">
+                                            <ul class="menu-item-ul">
+                                                
+                                                        <li><a href='/page/2144.aspx'><i class="icon-left-open-big"></i>اسکناس‌های در جریان</a></li>
+                                                    
+                                                        <li><a href='/page/15831.aspx'><i class="icon-left-open-big"></i>اسکناس‌های از جریان خارج شده</a></li>
+                                                    
+                                                        <li><a href='/page/2153.aspx'><i class="icon-left-open-big"></i>مسکوک</a></li>
+                                                    
+                                                        <li><a href='/page/14285.aspx'><i class="icon-left-open-big"></i>ایران‌ چک‌های در جریان</a></li>
+                                                    
+                                                        <li><a href='/simplelist/19736.aspx'><i class="icon-left-open-big"></i>اسکناس و ایران‌چک ناقص</a></li>
+                                                    
+                                                        <li><a href='/page/2809.aspx'><i class="icon-left-open-big"></i>طرح‌های حفظ و نگهداری اسکناس</a></li>
+                                                    
+                                                        <li><a href='/page/15718.aspx'><i class="icon-left-open-big"></i>سازمان تولید اسکناس و مسکوک</a></li>
+                                                    
+                                                        <li><a href='/page/5679.aspx'><i class="icon-left-open-big"></i>كارخانه توليد كاغذ اسناد بهادار (تكاب) </a></li>
+                                                    
+                                                        <li><a href='/page/5953.aspx'><i class="icon-left-open-big"></i>سکه‌های يادبود سی امين سالگرد انقلاب</a></li>
+                                                    
+                                                        <li><a href='/page/16893.aspx'><i class="icon-left-open-big"></i>نرم افزار نما</a></li>
+                                                    
+                                            </ul>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col divid hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/15718.aspx'>
+                                                <img src='/Upload/MenuImages/15718.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/15718.aspx'>
+                                                <h5>سازمان تولید اسکناس و مسکوک</h5>
+                                            </a>
+                                            <p>
+                                                سازمان توليد اسکناس و مسکوک يک واحد توليدی زيرمجموعه بانک مرکزی جمهوری اسلامی ايران است که مسئوليت طراحی و توليد اسکناس و مسکوک کشور را برعهده دارد.
+                                            </p>
+                                        </li>
+                                        <li class="col-sm-3 menu-top-item-col hidden-xs animated fadeIn">
+                                            <a style="padding: 0;" href='/page/5679.aspx'>
+                                                <img src='/Upload/MenuImages/5679.jpg' class="img-responsive img-highlight" />
+                                            </a>
+                                            <a style="padding: 0;" href='/page/5679.aspx'>
+                                                <h5>كارخانه توليد كاغذ اسناد بهادار (تكاب) </h5>
+                                            </a>
+                                            <p>
+                                                امروزه پس از سالها تلاش و پيگيري، كارخانه توليد كاغذ اسناد بهادار، كاغذ اسكناس، چك، صفحات پاسپورت و . . . را در داخل توليد نموده و اين گام بزرگی به سوی خودكفايي، استقلال و عدم وابستگی در زمينه توليد اوراق بهادار می باشد.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </li>
+                            
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+        
+<!-- Start of BreadCrumb Bar -->
+<div class="int-bar2">
+    <div class="container cont-brd">
+        <div class="breadcrumb">
+            <i class="icon-home"></i>
+            
+                    <a href='/default.aspx'>
+                        صفحه نخست
+                    </a>
+                <span class="divid">»</span>
+                    <a href='/section/1378.aspx'>
+                        آمار و داده‌ها
+                    </a>
+                <span class="divid">»</span>
+            <span id="ctl00_ucPageNavigator_lblCurrent">نرخ‌ سود</span>
+        </div>
+        
+<div class="cbi-tool-bar">
+    <span><i class="icon-tools"></i></span>
+    <span><a href="tg://msg_url?url=http://www.cbi.ir/PolicyRates/policyrates_fa.aspx" id="ctl00_ucPageNavigator_ucPageOptions_sendToTelegram" title="ارسال به تلگرام"><i class="icon-telegram-solid-sm"></i></a></span>
+    <span><a href="/Recommend/Recommend_fa.aspx?tl=%d9%86%d8%b1%d8%ae%e2%80%8c+%d8%b3%d9%88%d8%af" id="ctl00_ucPageNavigator_ucPageOptions_ancSend" title="معرفی اين صفحه به ديگران"><i class="icon-mail-1"></i></a></span>
+    <span><a href="javascript:printPage();" title="نسخه مناسب چاپ اين صفحه"><i class="icon-print"></i></a></span>
+</div>
+
+
+    </div>
+</div>
+<!-- End of BreadCrumb Bar -->
+        <div id="mainbody">
+            
+
+<!-- START OF MAIN CONTENT TABLE -->
+<div id="ctl00_ucBody_divBody" class="container main-section">
+    <div class="col-lg-3 col-md-3 menu-col">
+        
+
+<ul class="list-group cb-right-nav">
+    <li class="list-group-item top-parent"><a id="ctl00_ucBody_ctl00_ucSectionMenu_hypBackLink" href="/section/1378.aspx"><i class="icon-right-open-1"></i><span id="ctl00_ucBody_ctl00_ucSectionMenu_lblBackLinkTitle">آمار و داده‌ها</span></a></li>
+    <li class="list-group-item active"></li>
+    
+</ul>
+
+<script type="text/javascript" src="/Skins/Skin-1395/js/FormsScripts/SectionMenu.js"></script>
+
+
+		
+
+    </div>
+    <div id="PrintArea">
+        <div class="col-lg-9 col-md-9 main-content2">
+            
+
+<div>
+    <div id="ctl00_ucBody_ucContent_pnlPageTitle">
+	
+        
+        <h3 class="pagetitle">
+            نرخ‌ سود
+        </h3>
+    
+</div>
+    
+<div class="Content">
+    
+
+<div class="row">
+    <h3 class="pagetitle">
+        
+    </h3>
+    <div class="col-sm-12 col-xs-12">
+        <div id="ctl00_ucBody_ucContent_ctl00_pnlRatesList">
+	
+            <div class="form-inline" style="padding-bottom: 20px;">
+                سال:  
+                <select name="ctl00$ucBody$ucContent$ctl00$ddlYear" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ucBody$ucContent$ctl00$ddlYear\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ucBody_ucContent_ctl00_ddlYear" class="form-control">
+		<option selected="selected" value="1402">۱۴۰۲</option>
+		<option value="1401">۱۴۰۱</option>
+		<option value="1400">۱۴۰۰</option>
+		<option value="1399">۱۳۹۹</option>
+
+	</select>
+            </div>
+            <p>
+                
+            </p>
+            <p>
+                
+            </p>
+            <div id="ctl00_ucBody_ucContent_ctl00_divRates" class="divRates">
+                <table class="table table-hover table-responsive table-condensed table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>تاریخ</th>
+                            <th>نرخ بازار بین&zwnj;بانکی(%)</th>
+                            <th>حداقل نرخ توافق بازخرید(%)</th>
+                            <th>نرخ اعتبارگیری قاعده​&zwnj;مند(%)</th>
+                            <th>نرخ سپرده&zwnj;گذاری قاعده&zwnj;​مند(%)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۲/۲۳
+                                    </td>
+                                    <td>23.62
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۲/۱۶
+                                    </td>
+                                    <td>23.57
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۲/۰۹
+                                    </td>
+                                    <td>23.58
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۲/۰۲
+                                    </td>
+                                    <td>23.6
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۱/۲۵
+                                    </td>
+                                    <td>23.48
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۱/۱۸
+                                    </td>
+                                    <td>23.56
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۱/۱۱
+                                    </td>
+                                    <td>23.46
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۱/۰۵
+                                    </td>
+                                    <td>23.53
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۰/۲۷
+                                    </td>
+                                    <td>23.49
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۰/۲۰
+                                    </td>
+                                    <td>23.41
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۰/۱۳
+                                    </td>
+                                    <td>23.43
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۱۰/۰۶
+                                    </td>
+                                    <td>23.59
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۹/۲۹
+                                    </td>
+                                    <td>23.55
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۹/۲۲
+                                    </td>
+                                    <td>23.44
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۹/۱۵
+                                    </td>
+                                    <td>23.43
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۹/۰۸
+                                    </td>
+                                    <td>23.54
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۹/۰۱
+                                    </td>
+                                    <td>23.6
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۸/۲۴
+                                    </td>
+                                    <td>23.63
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۸/۱۷
+                                    </td>
+                                    <td>23.56
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۸/۱۰
+                                    </td>
+                                    <td>23.6
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۸/۰۳
+                                    </td>
+                                    <td>23.71
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۷/۲۶
+                                    </td>
+                                    <td>23.72
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۷/۱۹
+                                    </td>
+                                    <td>23.76
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۷/۱۲
+                                    </td>
+                                    <td>23.75
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۷/۰۵
+                                    </td>
+                                    <td>23.8
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۶/۲۹
+                                    </td>
+                                    <td>23.69
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۶/۲۲
+                                    </td>
+                                    <td>23.62
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۶/۱۵
+                                    </td>
+                                    <td>23.55
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۶/۰۸
+                                    </td>
+                                    <td>23.57
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۶/۰۱
+                                    </td>
+                                    <td>23.59
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۵/۲۵
+                                    </td>
+                                    <td>23.53
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۵/۱۸
+                                    </td>
+                                    <td>23.5
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۵/۱۱
+                                    </td>
+                                    <td>23.45
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۵/۰۴
+                                    </td>
+                                    <td>23.55
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۴/۲۸
+                                    </td>
+                                    <td>23.5
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۴/۲۱
+                                    </td>
+                                    <td>23.46
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۴/۱۴
+                                    </td>
+                                    <td>23.44
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۴/۰۷
+                                    </td>
+                                    <td>23.41
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۳/۳۱
+                                    </td>
+                                    <td>23.48
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۳/۲۴
+                                    </td>
+                                    <td>23.48
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۳/۱۷
+                                    </td>
+                                    <td>23.44
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۳/۱۰
+                                    </td>
+                                    <td>23.65
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۳/۰۳
+                                    </td>
+                                    <td>23.75
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۲/۲۷
+                                    </td>
+                                    <td>23.76
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۲/۲۰
+                                    </td>
+                                    <td>23.61
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۲/۱۳
+                                    </td>
+                                    <td>23.55
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۲/۰۶
+                                    </td>
+                                    <td>23.62
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۱/۳۰
+                                    </td>
+                                    <td>23.49
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۱/۲۳
+                                    </td>
+                                    <td>23.43
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۱/۱۶
+                                    </td>
+                                    <td>23.46
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                                <tr style="text-align: center">
+                                    <td>
+                                        ۱۴۰۲/۰۱/۰۹
+                                    </td>
+                                    <td>23.36
+                                    </td>
+                                    <td>23
+                                    </td>
+                                    <td>24
+                                    </td>
+
+                                    <td>17
+                                    </td>
+
+                                </tr>
+                            
+                    </tbody>
+                    
+                </table>
+            </div>
+        
+</div>
+    </div>
+</div>
+
+</div>
+</div>
+
+
+
+            
+<br />
+<br />
+            <div id="ctl00_ucBody_divNumberOfVisit" class="NumberOfVisitRow">
+                <span>تعداد بازديدها:</span>&nbsp;&nbsp;
+                <span id="ctl00_ucBody_lblNumberOfVisit" class="badge">540,917</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+    <div class="container">
+    </div>
+</div>
+
+<!-- END OF MAIN CONTENT TABLE -->
+
+        </div>
+        <div id="footer">
+            
+
+<!-- START OF FOOTER-->
+<footer>
+    <div class="container-fluid">
+        <div class="container">
+
+        </div>
+    </div>
+    <div class="footer-cbi-ir">
+        <div class="container">
+            <div class="col-lg-3 col-md-6">
+                <ul class="links">
+                    <li><a href="/category/News.aspx">همه خبرها</a></li>
+                    <li><a href="/Galleries/ImageGallery.aspx">گزارش های تصویری</a></li>
+                        <li><a href="/datedlist/Events_Fa.aspx">رویدادها</a></li>
+					<li><a href="/datedlist/11245.aspx">چند رسانه ای</a></li>
+                    
+                    <li><a href="/Page/2053.aspx">حساب های ملی ایران</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <ul class="links">
+                    <li><a href="/page/4771.aspx">راهنمای رفع سوء اثر از سوابق چک های برگشتی</a></li>
+					<li><a href="/InquiryMahCheque/23586.aspx">استعلام مبالغ مسدود شده حسابها بابت چک برگشتی</a></li>
+                    <li><a href="/Simplelist/3354.aspx">مجموعه مقررات ارزی</a></li>
+                    <li><a href="/simplelist/1533.aspx">بخشنامه ها</a></li>
+                    
+                    <li><a href="/page/5675.aspx">خدمات RSS</a></li>
+               
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <ul class="links">
+                    <li><a href="/sitemap/sitemap_fa.aspx">نقشه سایت</a></li>
+                    <li><a href="/page/links_fa.aspx">پیوندها</a></li>
+                    <li><a href="/page/4230.aspx">پرسش های متداول</a></li>
+                    <li><a href="/page/Contact_fa.aspx">تماس با ما</a></li>
+                    <li><a href="/page/legal_fa.aspx">موارد قانونی</a></li>
+                    <li><a href="/page/webmaster_fa.aspx">مسئول سایت</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 contact-cbi-ir col-md-6">
+                <div class="wp-title-bar">
+                    <div class="icon pull-right"><i class="icon-mail-1"></i></div>
+                    <h1 class="title pull-right">اطلاعات تماس</h1>
+                </div>
+                <h4>بانک مرکزی جمهوری اسلامی ایران</h4>
+                <a style="display:none" class="go-top" href="#top"><i class="icon-up-open-big"></i></a>
+                <p><i class="icon-address"></i>تهران - بلوار میرداماد - شماره 198</p>
+                <p><i class="icon-mail"></i>کد پستی: 33111-15496</p>
+                <p><i class="icon-mail-1"></i>صندوق پستی: 15875/7177</p>
+                <p><i class="icon-phone"></i>مرکز تلفن : 29951</p>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copy-right-cbi-ir">
+        © تمامی حقوق مادی و معنوی این پایگاه متعلق به بانک مرکزی جمهوری اسلامی ایران است.
+    </div>
+</footer>
+
+<!-- END OF FOOTER-->
+
+        </div>
+    </form>
+    
+</body>
+</html>
